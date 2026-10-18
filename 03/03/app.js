@@ -176,9 +176,10 @@ if (formTambah) {
 
         if (!validation.isValid) {
             // Percobaan 3-4 Langkah 6
-            showAlert(validation.message, "danger")
+            showAlert(validation.message, "danger");
             
         }
+        con
 
         // Percobaan 3-4 Langkah 7
 
